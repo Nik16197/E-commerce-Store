@@ -1,0 +1,12 @@
+Create react App;
+Build UI
+Create redux folder
+Create Action Constants (types)
+Create Actions
+Create Reducers
+Combine all the Reducers
+Create a store
+Provide the store to whole application
+Access store inside components using useSelector
+Make Async call and fetch data from API
+Dispatch an action using useDispatch 
